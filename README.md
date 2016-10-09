@@ -1,4 +1,4 @@
-homebrew-arm-toolchain
+gnu-arm-toolchain
 ============
 
 GNU ARM Embedded Toolchain Homebrew formula for developers using OS X
